@@ -8,7 +8,7 @@ Welcome to the CodeSoft Web Development Virtual Internship! This repository cont
 
 **Repository**: [Task 1 - Calculator](https://github.com/YourUsername/CodeSoftIntern/tree/main/Task1-Calculator)
 
-**Live**: [Task 1 - Calculator](https://yourusername.github.io/Calculator/)
+**Live**: [Task 1 - Calculator](https://Mohasindawal.github.io/Calculator/)
 
 **Features**:
 - Addition, subtraction, multiplication, and division.
@@ -19,7 +19,7 @@ Welcome to the CodeSoft Web Development Virtual Internship! This repository cont
 
 **Description**: Task 2 challenged me to build my personal portfolio website using HTML, CSS, and JavaScript. This portfolio showcases my skills, projects, and provides insights into my web development journey.
 
-**Repository**: [Task 2 - Personal Portfolio](https://github.com/YourUsername/CodeSoftIntern/tree/main/Task2-Portfolio)
+**Repository**: [Task 2 - Personal Portfolio](https://github.com/Mohasindawal/CodeSoft/tree/main/Task2-Portfolio)
 
 **Live**: [Task 2 - Personal Portfolio](https://yourusername.github.io/Portfolio/)
 
