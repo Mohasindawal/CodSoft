@@ -2,23 +2,15 @@
 
 Welcome to the CodeSoft Web Development Virtual Internship! This repository contains the code for three exciting web development tasks completed as part of the internship program. Below, you'll find details about each task along with links to their respective directories and descriptions.
 
-## Task 1: Calculator
-
-**Description**: In Task 1, I created a web-based calculator application using HTML, CSS, and JavaScript. This calculator can perform basic arithmetic operations and provides a user-friendly interface.
 
 
-**Features**:
-- Addition, subtraction, multiplication, and division.
-- Clear and reset functionality.
-- Responsive design for various devices.
+## Task 1: Personal Portfolio Site
 
-## Task 2: Personal Portfolio Site
-
-**Description**: Task 2 challenged me to build my personal portfolio website using HTML, CSS, and JavaScript. This portfolio showcases my skills, projects, and provides insights into my web development journey.
+**Description**: Task 1 challenged me to build my personal portfolio website using HTML, CSS, and JavaScript. This portfolio showcases my skills, projects, and provides insights into my web development journey.
 <!--
-**Repository**: [Task 2 - Personal Portfolio](https://github.com/Mohasindawal/CodeSoft/tree/main/Task2-Portfolio)
+**Repository**: [Task 1 - Personal Portfolio](https://github.com/Mohasindawal/CodeSoft/tree/main/Task2-Portfolio)
 
-**Live**: [Task 2 - Personal Portfolio](https://yourusername.github.io/Portfolio/) -->
+**Live**: [Task 1 - Personal Portfolio](https://yourusername.github.io/Portfolio/) -->
 
 **Features**:
 - Interactive and responsive design.
@@ -28,12 +20,12 @@ Welcome to the CodeSoft Web Development Virtual Internship! This repository cont
 - Smooth scrolling navigation.
 - Integration with GitHub for project updates.
 
-## Task 3: To-Do List
+## Task 2: To-Do List
 
-**Description**: Task 3 involved creating a web-based to-do list application using HTML, CSS, and JavaScript. This handy tool allows users to manage their tasks and stay organized.
+**Description**: Task 2 involved creating a web-based to-do list application using HTML, CSS, and JavaScript. This handy tool allows users to manage their tasks and stay organized.
 
 <!--
-**Repository**: [Task 3 - To-Do List](https://github.com/YourUsername/CodeSoftIntern/tree/main/Task3-TodoList)
+**Repository**: [Task 2 - To-Do List](https://github.com/YourUsername/CodeSoftIntern/tree/main/Task3-TodoList)
 -->
 **Features**:
 - Add, edit, and delete tasks.
@@ -41,6 +33,16 @@ Welcome to the CodeSoft Web Development Virtual Internship! This repository cont
 - Organize tasks by priority.
 - Data persistence using local storage.
 - User-friendly interface.
+
+## Task 3: Calculator
+
+**Description**: In Task 3, I created a web-based calculator application using HTML, CSS, and JavaScript. This calculator can perform basic arithmetic operations and provides a user-friendly interface.
+
+
+**Features**:
+- Addition, subtraction, multiplication, and division.
+- Clear and reset functionality.
+- Responsive design for various devices.
 
 ## Feedback and Contributions
 
