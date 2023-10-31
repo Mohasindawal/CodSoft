@@ -15,7 +15,6 @@ Welcome to the CodeSoft Web Development Virtual Internship! This repository cont
 **Features**:
 - Interactive and responsive design.
 - Project showcase section.
-- Contact form.
 - Skillset and about me section.
 - Smooth scrolling navigation.
 - Integration with GitHub for project updates.
