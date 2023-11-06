@@ -30,7 +30,6 @@ Welcome to the CodeSoft Web Development Virtual Internship! This repository cont
 - Add, edit, and delete tasks.
 - Mark tasks as completed.
 - Organize tasks by priority.
-- Data persistence using local storage.
 - User-friendly interface.
 
 ## Task 3: Calculator
