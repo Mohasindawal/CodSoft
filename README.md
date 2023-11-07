@@ -1,6 +1,4 @@
-# CodeSoft Web Development Virtual Internship
-
-Welcome to the CodeSoft Web Development Virtual Internship! This repository contains the code for three exciting web development tasks completed as part of the internship program. Below, you'll find details about each task along with links to their respective directories and descriptions.
+This repository contains the code for three exciting web development. Below, you'll find details about each task along with links to their respective directories and descriptions.
 
 
 
@@ -46,4 +44,4 @@ Welcome to the CodeSoft Web Development Virtual Internship! This repository cont
 
 I'm continuously working on improving my web development skills, and your feedback is invaluable. If you have suggestions, ideas, or improvements for any of these tasks, please feel free to create issues or pull requests.
 
-Thank you for visiting my CodeSoft Web Development Virtual Internship Repository. I hope you find these projects interesting and inspiring for your web development journey. 😊🌐🚀
+Thank you for visiting my Web Development Repository. I hope you find these projects interesting and inspiring for your web development journey. 😊🌐🚀
