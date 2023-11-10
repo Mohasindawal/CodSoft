@@ -1,5 +1,4 @@
-This repository contains the code for three exciting web development Projects. Below, you'll find details about each task along with links to their respective directories and descriptions.
-
+This repository contains the code for three exciting web development Projects. Below, you'll find details about each task.
 
 
 ## Project 1: Personal Portfolio Site
