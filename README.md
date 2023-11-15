@@ -20,9 +20,6 @@ This repository contains the code for three exciting web development Projects. B
 
 **Description**: Project 2 involved creating a web-based to-do list application using HTML, CSS, and JavaScript. This handy tool allows users to manage their tasks and stay organized.
 
-<!--
-**Repository**: [Task 2 - To-Do List](https://github.com/YourUsername/CodeSoftIntern/tree/main/Task3-TodoList)
--->
 **Features**:
 - Add, edit, and delete tasks.
 - Mark tasks as completed.
