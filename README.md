@@ -38,6 +38,6 @@ This repository contains the code for three exciting web development Projects. B
 
 ## Feedback and Contributions
 
-I'm continuously working on improving my web development skills, and your feedback is invaluable. If you have suggestions, ideas, or improvements for any of these tasks, please feel free to create issues or pull requests.
+I'm continuously working on improving my web development skills, and your feedback is invaluable. 
 
 Thank you for visiting my Web Development Repository. I hope you find these projects interesting and inspiring for your web development journey. 😊🌐🚀
